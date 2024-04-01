@@ -1,0 +1,24 @@
+.MainContent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Montserrat", sans-serif;
+    padding: 30px;
+    padding-top: 90px;
+    text-align: center;
+}
+
+.MainContent h2 {
+   
+ 
+}
+
+.MainContent p{
+    width: 50%;
+    padding-left: 24%;
+}
+
+.MainContent img {
+    border-radius: 50px;
+    width: 100%;
+}
