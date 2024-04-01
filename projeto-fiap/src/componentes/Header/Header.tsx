@@ -3,12 +3,12 @@ import styles from "./Header.module.css"
 function Header(){
     return (
         <header className={styles.header}>
-            <span>Salesforce</span>
+            <span>SALESFORCE</span>
             <nav>
                 <ul>
-                    <li><a href="#">Início</a></li>
-                    <li><a href="#">Sobre</a></li>
-                    <li><a href="#">Equipe</a></li>
+                    <li><a href="#mainContent">Início</a></li>
+                    <li><a href="#about">Sobre</a></li>
+                    <li><a href="#team">Equipe</a></li>
                 </ul>
             </nav>
         </header>

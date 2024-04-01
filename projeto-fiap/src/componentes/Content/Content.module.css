@@ -1,0 +1,15 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Montserrat", sans-serif;
+    padding: 20px;
+    text-align: center;
+    background-color: #63A6B5;;
+    color: white;
+    font-size: 20px;
+}
+
+.content p{
+    width: 50%;
+}
